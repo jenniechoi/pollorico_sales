@@ -1,3 +1,9 @@
+Sales tracker for restaurant
+
+App URL: https://pollorico-sales.herokuapp.com/
+
+Linked to Back-end: https://github.com/jenniechoi/pollorico_sales_api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
